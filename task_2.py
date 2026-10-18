@@ -7,4 +7,3 @@ elif password.isalpha() or password.isdigit():
 
 else: 
     print ("надежный пароль")
-pass
